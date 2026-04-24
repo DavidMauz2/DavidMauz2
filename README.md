@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="C:\Users\dmstz\Videos\Desarrollador.jpg" width="200"/>
+  <img src="img\Desarrollador.jpg" width="200"/>
 </p>
 
 🎓 Software Engineering student passionate about application development and problem-solving through technology.\\
