@@ -65,7 +65,7 @@
 * 📱 Cell Phone: 0998832374
 
 ---
-⚡ Personal Motto
+⚡ Motto
 “IF YOU CAN IMAGINE IT, YOU CAN PROGRAM IT”
 
 <p align="center">
