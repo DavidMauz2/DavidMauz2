@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="img_gif/Desarrollador.gif" width="400"/>
+  <img src="img_gif/Desarrollador.gif" width="600"/>
 </p>
 
 🎓 Software Engineering student passionate about application development and problem-solving through technology.\\
